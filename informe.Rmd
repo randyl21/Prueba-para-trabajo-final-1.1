@@ -1,11 +1,11 @@
 ---
 # --- Metadatos Básicos ---
-title: "Título del Trabajo Final"
+title: "“Análisis del comportamiento de los jugadores en función de la ubicación geográfica y el género del videojuego: horas de uso y frecuencia de sesiones"
 author:
-   - Primer participante
-   - Segundo participante
-   - Tercer participante
-date: "Febrero 2026"
+   - Estefani Carreño
+   - Randy Conde 
+   - Aziel gonzalez
+date: "abril 2026"
 
 # --- Metadatos Específicos de Plantilla ---
 degree: "Computación I"
@@ -60,7 +60,8 @@ library(scales)
 Introducción del trabajo de investigación
 
 \chapter{Planteamiento del Problema}
-Describir planteamiento del problema\
+Analizar la relación entre la ubicación geográfica y la preferencia de género de videojuego, evaluando cómo estas variables influyen en los patrones de intensidad y frecuencia de uso de los jugadores.
+
 
 Argumento final. Debido a esto, se plantea las siguientes preguntas de investigación:\
 
