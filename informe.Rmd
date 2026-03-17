@@ -82,11 +82,10 @@ Analizar la relación entre la ubicación geográfica y la preferencia de géner
 
 \subsection{Objetivos Específicos}
 \begin{itemize}
-  \item{1. Identificar cuáles son los géneros de juego más populares en cada ubicación para establecer el contexto del mercado.}
-  \item{2. Comparar las horas de dedicación y frecuencia de sesiones semanales entre distintos géneros de videojuegos.}
-  \item{3. Evaluar la distribución de las horas totales de juego registradas por los usuarios para identificar niveles de dedicación.}
-\end{itemize}
-  \item{4. verificar si existe una relación directa entre el tiempo total de juego y la frecuencia semanal.}
+  \item{Identificar cuáles son los géneros de juego más populares en cada ubicación para establecer el contexto del mercado.}
+  \item{Comparar las horas de dedicación y frecuencia de sesiones semanales entre distintos géneros de videojuegos.}
+  \item{Evaluar la distribución de las horas totales de juego registradas por los usuarios para identificar niveles de dedicación.}
+  \item{verificar si existe una relación directa entre el tiempo total de juego y la frecuencia semanal.}
 \end{itemize}
 
 \section{Cobertura}
@@ -207,4 +206,3 @@ Recomendación 2 del trabajo de investigación.\
 \chapter{Anexo B}
 
 \chapter{Anexo C}
-
