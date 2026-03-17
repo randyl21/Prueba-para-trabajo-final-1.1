@@ -60,10 +60,6 @@ library(scales)
 Introducción del trabajo de investigación
 
 \chapter{Planteamiento del Problema}
-Analizar la relación entre la ubicación geográfica y la preferencia de género de videojuego, evaluando cómo estas variables influyen en los patrones de intensidad y frecuencia de uso de los jugadores.
-
-
-Argumento final. Debido a esto, se plantea las siguientes preguntas de investigación:\
 
 
 \textbf{1.}	Pregunta1\
@@ -80,23 +76,17 @@ Justificación del trabajo de investigación\
 \section{Objetivos}
  
 \subsection{Objetivo General}
-\begin{itemize}
-  \item{1. Identificar cuáles son los géneros de juego más populares en cada ubicación (USA, Europe, Other) para establecer el contexto del mercado. Gráfico de Barras Apiladas
 
-2. Comparar las horas de dedicación y frecuencia de sesiones semanales entre distintos géneros de videojuegos Gráfico de Barras Agrupadas
-
-3. Evaluar la distribución de las horas totales de juego registradas por los usuarios para identificar niveles de dedicación Diagrama de Caja
-
-4. verificar si existe una relación directa entre el tiempo total de juego y la frecuencia semanal (¿quienes juegan más horas, entran más veces?).Gráfico de Dispersión}
-\end{itemize}
+Analizar la relación entre la ubicación geográfica y la preferencia de género de videojuego, evaluando cómo estas variables influyen en los patrones de intensidad y frecuencia de uso de los jugadores.
 
 \subsection{Objetivos Específicos}
 \begin{itemize}
-  \item{Describir objetivo 1 del trabajo de investigación}
-  \item{Describir objetivo 2 del trabajo de investigación}
-  \item{Describir objetivo 3 del trabajo de investigación}
+  \item{1. Identificar cuáles son los géneros de juego más populares en cada ubicación para establecer el contexto del mercado.}
+  \item{2. Comparar las horas de dedicación y frecuencia de sesiones semanales entre distintos géneros de videojuegos.}
+  \item{Evaluar la distribución de las horas totales de juego registradas por los usuarios para identificar niveles de dedicación.}
 \end{itemize}
-
+  \item{verificar si existe una relación directa entre el tiempo total de juego y la frecuencia semanal.}
+\end{itemize}
 
 \section{Cobertura}
 
