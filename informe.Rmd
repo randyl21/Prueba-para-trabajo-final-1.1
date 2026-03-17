@@ -4,7 +4,7 @@ title: "“Análisis del comportamiento de los jugadores en función de la ubica
 author:
    - Estefani Carreño
    - Randy Conde 
-   - Aziel gonzalez
+   - Aziel Gonzalez
 date: "abril 2026"
 
 # --- Metadatos Específicos de Plantilla ---
