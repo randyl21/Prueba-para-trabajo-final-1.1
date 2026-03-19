@@ -111,7 +111,7 @@ Describir la cobertura Horizontal del trabajo de investigación\
   \hline
   Categórica & Game Genre & Género del videojuego \\ 
   Categórica & Location & País dónde el jugador jugó el videojuego \\ 
-  Numérica & Sessions Per Week & Cantidad de sesiones de juego a la semana \\ 
+  Numérica & Sessions Per Week & Cantidad de sesiones de juego a la semana \\
   Numérica & Playtime Hours & Tiempo total dedicado a jugar (horas) \\ 
    \hline
 \end{tabular}
