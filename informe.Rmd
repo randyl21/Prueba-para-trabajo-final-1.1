@@ -4,13 +4,13 @@ title: "“Análisis del comportamiento de los jugadores en función de la ubica
 author:
    - Estefani Carreño
    - Randy Conde 
-   - Aziel González
+   - Aziel Gonzalez
 date: "abril 2026"
 
 # --- Metadatos Específicos de Plantilla ---
 degree: "Computación I"
 director: 
-  - Jesús Ochoa 
+  - Jesus Ochoa 
   - Oliver Triveño
 lugar: "Caracas"
 facultad: 
