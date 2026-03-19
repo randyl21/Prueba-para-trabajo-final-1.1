@@ -103,15 +103,16 @@ Describir la cobertura Horizontal del trabajo de investigación\
 
 \begin{table}[ht]
 \centering
-\caption{Variables consideradas} 
+\caption{Variables consideradas en el estudio} 
 \resizebox{10cm}{!} {
-\begin{tabular}{ccc}
+\begin{tabular}{cll}
   \hline
-\ \ \ \ \ NOMBRE DE LA VARIABLE \\ 
+  \textbf{TIPO} & \textbf{VARIABLE} & \textbf{DESCRIPCIÓN} \\ 
   \hline
-   VARIABLE 1 \\ 
-VARIABLE 2\\ 
-VARIABLE n\\ 
+  Categórica & Game Genre & Género del videojuego \\ 
+  Categórica & Location & País dónde el jugador jugó el videojuego \\ 
+  Numérica & Sessions Per Week & Cantidad de sesiones de juego a la semana \\ 
+  Numérica & Playtime Hours & Tiempo total dedicado a jugar (horas) \\ 
    \hline
 \end{tabular}
 }
